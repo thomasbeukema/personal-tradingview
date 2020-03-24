@@ -1,0 +1,1941 @@
+[
+  {
+    "Company Name": "Abeona Therapeutics Inc.",
+    "Ticker": "ABEO",
+    "Avg Volume": 1719552,
+    "Exchange": "NSDQ",
+    "Last Close": 2.13
+  },
+  {
+    "Company Name": "Achieve Life Sciences, Inc.",
+    "Ticker": "ACHV",
+    "Avg Volume": 1474261,
+    "Exchange": "NSDQ",
+    "Last Close": ".299"
+  },
+  {
+    "Company Name": "Acorda Therapeutics, Inc.",
+    "Ticker": "ACOR",
+    "Avg Volume": 1475590,
+    "Exchange": "NSDQ",
+    "Last Close": ".9737"
+  },
+  {
+    "Company Name": "AcelRx Pharmaceuticals, Inc.",
+    "Ticker": "ACRX",
+    "Avg Volume": 1231482,
+    "Exchange": "NSDQ",
+    "Last Close": ".84"
+  },
+  {
+    "Company Name": "Acasti Pharma, Inc.",
+    "Ticker": "ACST",
+    "Avg Volume": 1313635,
+    "Exchange": "NSDQ",
+    "Last Close": ".313"
+  },
+  {
+    "Company Name": "ADMA Biologics Inc",
+    "Ticker": "ADMA",
+    "Avg Volume": 2983381,
+    "Exchange": "NSDQ",
+    "Last Close": 2.25
+  },
+  {
+    "Company Name": "Advaxis, Inc.",
+    "Ticker": "ADXS",
+    "Avg Volume": 3082328,
+    "Exchange": "NSDQ",
+    "Last Close": ".55"
+  },
+  {
+    "Company Name": "Aethlon Medical, Inc.",
+    "Ticker": "AEMD",
+    "Avg Volume": 1335673,
+    "Exchange": "NSDQ",
+    "Last Close": 1.5
+  },
+  {
+    "Company Name": "Agenus Inc.",
+    "Ticker": "AGEN",
+    "Avg Volume": 3503613,
+    "Exchange": "NSDQ",
+    "Last Close": 1.92
+  },
+  {
+    "Company Name": "AGNC Investment Corp.",
+    "Ticker": "AGNC",
+    "Avg Volume": 16471192,
+    "Exchange": "NSDQ",
+    "Last Close": 9.83
+  },
+  {
+    "Company Name": "Agile Therapeutics, Inc.",
+    "Ticker": "AGRX",
+    "Avg Volume": 4478117,
+    "Exchange": "NSDQ",
+    "Last Close": 1.62
+  },
+  {
+    "Company Name": "Spherix Incorporated",
+    "Ticker": "AIKI",
+    "Avg Volume": 12065629,
+    "Exchange": "NSDQ",
+    "Last Close": ".5801"
+  },
+  {
+    "Company Name": "Apollo Investment Corporation",
+    "Ticker": "AINV",
+    "Avg Volume": 1417936,
+    "Exchange": "NSDQ",
+    "Last Close": 7.75
+  },
+  {
+    "Company Name": "Akebia Therapeutics, Inc.",
+    "Ticker": "AKBA",
+    "Avg Volume": 1803824,
+    "Exchange": "NSDQ",
+    "Last Close": 5.84
+  },
+  {
+    "Company Name": "Akorn, Inc.",
+    "Ticker": "AKRX",
+    "Avg Volume": 2155002,
+    "Exchange": "NSDQ",
+    "Last Close": ".5412"
+  },
+  {
+    "Company Name": "PharmAthene, Inc",
+    "Ticker": "ALT",
+    "Avg Volume": 3178113,
+    "Exchange": "NSDQ",
+    "Last Close": 2.94
+  },
+  {
+    "Company Name": "Amkor Technology, Inc.",
+    "Ticker": "AMKR",
+    "Avg Volume": 1745959,
+    "Exchange": "NSDQ",
+    "Last Close": 6.95
+  },
+  {
+    "Company Name": "Amyris, Inc.",
+    "Ticker": "AMRS",
+    "Avg Volume": 2942341,
+    "Exchange": "NSDQ",
+    "Last Close": 2.23
+  },
+  {
+    "Company Name": "ANGI Homeservices Inc.",
+    "Ticker": "ANGI",
+    "Avg Volume": 2304562,
+    "Exchange": "NSDQ",
+    "Last Close": 4.82
+  },
+  {
+    "Company Name": "American Outdoor Brands Corporation",
+    "Ticker": "AOBC",
+    "Avg Volume": 1851595,
+    "Exchange": "NSDQ",
+    "Last Close": 7.7
+  },
+  {
+    "Company Name": "Applied DNA Sciences Inc",
+    "Ticker": "APDN",
+    "Avg Volume": 1435907,
+    "Exchange": "NSDQ",
+    "Last Close": 4.66
+  },
+  {
+    "Company Name": "Digital Turbine, Inc.",
+    "Ticker": "APPS",
+    "Avg Volume": 3137719,
+    "Exchange": "NSDQ",
+    "Last Close": 3.91
+  },
+  {
+    "Company Name": "Aptose Biosciences, Inc.",
+    "Ticker": "APTO",
+    "Avg Volume": 1105628,
+    "Exchange": "NSDQ",
+    "Last Close": 5.21
+  },
+  {
+    "Company Name": "Aptevo Therapeutics Inc.",
+    "Ticker": "APVO",
+    "Avg Volume": 2073627,
+    "Exchange": "NSDQ",
+    "Last Close": ".2755"
+  },
+  {
+    "Company Name": "ASSERTIO THERAPEUTICS, INC",
+    "Ticker": "ASRT",
+    "Avg Volume": 1385962,
+    "Exchange": "NSDQ",
+    "Last Close": ".706"
+  },
+  {
+    "Company Name": "Athersys, Inc.",
+    "Ticker": "ATHX",
+    "Avg Volume": 1840344,
+    "Exchange": "NSDQ",
+    "Last Close": 1.78
+  },
+  {
+    "Company Name": "Athenex, Inc.",
+    "Ticker": "ATNX",
+    "Avg Volume": 1015477,
+    "Exchange": "NSDQ",
+    "Last Close": 6.57
+  },
+  {
+    "Company Name": "Antares Pharma, Inc.",
+    "Ticker": "ATRS",
+    "Avg Volume": 2083583,
+    "Exchange": "NSDQ",
+    "Last Close": 1.76
+  },
+  {
+    "Company Name": "Avadel Pharmaceuticals PLC.",
+    "Ticker": "AVDL",
+    "Avg Volume": 1201526,
+    "Exchange": "NSDQ",
+    "Last Close": 6.09
+  },
+  {
+    "Company Name": "Anavex Life Sciences Corp.",
+    "Ticker": "AVXL",
+    "Avg Volume": 1418907,
+    "Exchange": "NSDQ",
+    "Last Close": 2.43
+  },
+  {
+    "Company Name": "Abraxas Petroleum Corporation",
+    "Ticker": "AXAS",
+    "Avg Volume": 3055608,
+    "Exchange": "NSDQ",
+    "Last Close": ".12"
+  },
+  {
+    "Company Name": "Aytu Bioscience, Inc.",
+    "Ticker": "AYTU",
+    "Avg Volume": 32949754,
+    "Exchange": "NSDQ",
+    "Last Close": 1.36
+  },
+  {
+    "Company Name": "Bed Bath & Beyond Inc.",
+    "Ticker": "BBBY",
+    "Avg Volume": 11230442,
+    "Exchange": "NSDQ",
+    "Last Close": 5
+  },
+  {
+    "Company Name": "Brainstorm Cell Therapeutics Inc.",
+    "Ticker": "BCLI",
+    "Avg Volume": 1044644,
+    "Exchange": "NSDQ",
+    "Last Close": 4.6
+  },
+  {
+    "Company Name": "BioCryst Pharmaceuticals, Inc.",
+    "Ticker": "BCRX",
+    "Avg Volume": 9319205,
+    "Exchange": "NSDQ",
+    "Last Close": 1.87
+  },
+  {
+    "Company Name": "BioDelivery Sciences International, Inc.",
+    "Ticker": "BDSI",
+    "Avg Volume": 1361005,
+    "Exchange": "NSDQ",
+    "Last Close": 3.24
+  },
+  {
+    "Company Name": "BGC Partners, Inc.",
+    "Ticker": "BGCP",
+    "Avg Volume": 3450458,
+    "Exchange": "NSDQ",
+    "Last Close": 3.06
+  },
+  {
+    "Company Name": "NF Energy Saving Corporation",
+    "Ticker": "BIMI",
+    "Avg Volume": 1062386,
+    "Exchange": "NSDQ",
+    "Last Close": 2.6
+  },
+  {
+    "Company Name": "Biocept, Inc.",
+    "Ticker": "BIOC",
+    "Avg Volume": 25715852,
+    "Exchange": "NSDQ",
+    "Last Close": ".27"
+  },
+  {
+    "Company Name": "BIO-key International Inc.",
+    "Ticker": "BKYI",
+    "Avg Volume": 1994221,
+    "Exchange": "NSDQ",
+    "Last Close": ".5147"
+  },
+  {
+    "Company Name": "Ballard Power Systems, Inc.",
+    "Ticker": "BLDP",
+    "Avg Volume": 4829723,
+    "Exchange": "NSDQ",
+    "Last Close": 7.86
+  },
+  {
+    "Company Name": "Bloomin' Brands, Inc.",
+    "Ticker": "BLMN",
+    "Avg Volume": 2316947,
+    "Exchange": "NSDQ",
+    "Last Close": 4.83
+  },
+  {
+    "Company Name": "Biomerica, Inc.",
+    "Ticker": "BMRA",
+    "Avg Volume": 2733696,
+    "Exchange": "NSDQ",
+    "Last Close": 7.15
+  },
+  {
+    "Company Name": "Benefitfocus, Inc.",
+    "Ticker": "BNFT",
+    "Avg Volume": 1064193,
+    "Exchange": "NSDQ",
+    "Last Close": 7.38
+  },
+  {
+    "Company Name": "Bionano Genomics, Inc.",
+    "Ticker": "BNGO",
+    "Avg Volume": 3219869,
+    "Exchange": "NSDQ",
+    "Last Close": ".4201"
+  },
+  {
+    "Company Name": "Brookfield Property Partners L.P.",
+    "Ticker": "BPY",
+    "Avg Volume": 4084212,
+    "Exchange": "NSDQ",
+    "Last Close": 8.6
+  },
+  {
+    "Company Name": "Brookfield Property REIT Inc.",
+    "Ticker": "BPYU",
+    "Avg Volume": 2110761,
+    "Exchange": "NSDQ",
+    "Last Close": 8.75
+  },
+  {
+    "Company Name": "Berry Petroleum Corporation",
+    "Ticker": "BRY",
+    "Avg Volume": 1062591,
+    "Exchange": "NSDQ",
+    "Last Close": 2.46
+  },
+  {
+    "Company Name": "Chanticleer Holdings, Inc.",
+    "Ticker": "BURG",
+    "Avg Volume": 1106644,
+    "Exchange": "NSDQ",
+    "Last Close": ".6"
+  },
+  {
+    "Company Name": "CymaBay Therapeutics Inc.",
+    "Ticker": "CBAY",
+    "Avg Volume": 1873275,
+    "Exchange": "NSDQ",
+    "Last Close": 1.4
+  },
+  {
+    "Company Name": "Cleveland BioLabs, Inc.",
+    "Ticker": "CBLI",
+    "Avg Volume": 1182210,
+    "Exchange": "NSDQ",
+    "Last Close": 1.92
+  },
+  {
+    "Company Name": "CENTENNIAL RES",
+    "Ticker": "CDEV",
+    "Avg Volume": 12358956,
+    "Exchange": "NSDQ",
+    "Last Close": ".52"
+  },
+  {
+    "Company Name": "Century Aluminum Company",
+    "Ticker": "CENX",
+    "Avg Volume": 2483034,
+    "Exchange": "NSDQ",
+    "Last Close": 3.15
+  },
+  {
+    "Company Name": "Cerus Corporation",
+    "Ticker": "CERS",
+    "Avg Volume": 2259009,
+    "Exchange": "NSDQ",
+    "Last Close": 3.17
+  },
+  {
+    "Company Name": "Central European Media Enterprises Ltd.",
+    "Ticker": "CETV",
+    "Avg Volume": 1299898,
+    "Exchange": "NSDQ",
+    "Last Close": 2.48
+  },
+  {
+    "Company Name": "Cemtrex Inc.",
+    "Ticker": "CETX",
+    "Avg Volume": 1201435,
+    "Exchange": "NSDQ",
+    "Last Close": ".7173"
+  },
+  {
+    "Company Name": "Compugen Ltd.",
+    "Ticker": "CGEN",
+    "Avg Volume": 1334493,
+    "Exchange": "NSDQ",
+    "Last Close": 6.72
+  },
+  {
+    "Company Name": "Sunshine Heart Inc",
+    "Ticker": "CHFS",
+    "Avg Volume": 4796026,
+    "Exchange": "NSDQ",
+    "Last Close": ".3199"
+  },
+  {
+    "Company Name": "Change Healthcare Inc.",
+    "Ticker": "CHNG",
+    "Avg Volume": 15879101,
+    "Exchange": "NSDQ",
+    "Last Close": 7.82
+  },
+  {
+    "Company Name": "Clean Energy Fuels Corp.",
+    "Ticker": "CLNE",
+    "Avg Volume": 1802422,
+    "Exchange": "NSDQ",
+    "Last Close": 1.48
+  },
+  {
+    "Company Name": "Clovis Oncology, Inc.",
+    "Ticker": "CLVS",
+    "Avg Volume": 6921390,
+    "Exchange": "NSDQ",
+    "Last Close": 4.43
+  },
+  {
+    "Company Name": "Conduent Inc.",
+    "Ticker": "CNDT",
+    "Avg Volume": 2627829,
+    "Exchange": "NSDQ",
+    "Last Close": 1.97
+  },
+  {
+    "Company Name": "Cocrystal Pharma, Inc.",
+    "Ticker": "COCP",
+    "Avg Volume": 15761629,
+    "Exchange": "NSDQ",
+    "Last Close": ".76"
+  },
+  {
+    "Company Name": "CommScope Holding Company, Inc.",
+    "Ticker": "COMM",
+    "Avg Volume": 5849473,
+    "Exchange": "NSDQ",
+    "Last Close": 7.25
+  },
+  {
+    "Company Name": "Conn's, Inc.",
+    "Ticker": "CONN",
+    "Avg Volume": 1306603,
+    "Exchange": "NSDQ",
+    "Last Close": 4.21
+  },
+  {
+    "Company Name": "Cardiome Pharma Corporation",
+    "Ticker": "CORV",
+    "Avg Volume": 15601078,
+    "Exchange": "NSDQ",
+    "Last Close": ".338"
+  },
+  {
+    "Company Name": "Catalyst Pharmaceuticals, Inc.",
+    "Ticker": "CPRX",
+    "Avg Volume": 2625881,
+    "Exchange": "NSDQ",
+    "Last Close": 2.95
+  },
+  {
+    "Company Name": "Corbus Pharmaceuticals Holdings, Inc.",
+    "Ticker": "CRBP",
+    "Avg Volume": 1168272,
+    "Exchange": "NSDQ",
+    "Last Close": 4.59
+  },
+  {
+    "Company Name": "Cronos Group Inc.",
+    "Ticker": "CRON",
+    "Avg Volume": 7230118,
+    "Exchange": "NSDQ",
+    "Last Close": 5.55
+  },
+  {
+    "Company Name": "Castor Maritime Inc.",
+    "Ticker": "CTRM",
+    "Avg Volume": 1357004,
+    "Exchange": "NSDQ",
+    "Last Close": ".5556"
+  },
+  {
+    "Company Name": "Covetrus, Inc.",
+    "Ticker": "CVET",
+    "Avg Volume": 2243208,
+    "Exchange": "NSDQ",
+    "Last Close": 6.22
+  },
+  {
+    "Company Name": "Cytokinetics, Incorporated",
+    "Ticker": "CYTK",
+    "Avg Volume": 1034804,
+    "Exchange": "NSDQ",
+    "Last Close": 9.55
+  },
+  {
+    "Company Name": "Caesars Entertainment Corporation",
+    "Ticker": "CZR",
+    "Avg Volume": 36147212,
+    "Exchange": "NSDQ",
+    "Last Close": 5.45
+  },
+  {
+    "Company Name": "RestorGenex Corp.",
+    "Ticker": "DFFN",
+    "Avg Volume": 1552703,
+    "Exchange": "NSDQ",
+    "Last Close": ".295"
+  },
+  {
+    "Company Name": "Senior Housing Properties Trust",
+    "Ticker": "DHC",
+    "Avg Volume": 2796188,
+    "Exchange": "NSDQ",
+    "Last Close": 2.5
+  },
+  {
+    "Company Name": "DouYu International Holdings Limited Sponsored ADR",
+    "Ticker": "DOYU",
+    "Avg Volume": 1042891,
+    "Exchange": "NSDQ",
+    "Last Close": 7.25
+  },
+  {
+    "Company Name": "DURECT Corporation",
+    "Ticker": "DRRX",
+    "Avg Volume": 1204435,
+    "Exchange": "NSDQ",
+    "Last Close": 1.19
+  },
+  {
+    "Company Name": "Dynavax Technologies Corporation",
+    "Ticker": "DVAX",
+    "Avg Volume": 1923358,
+    "Exchange": "NSDQ",
+    "Last Close": 2.86
+  },
+  {
+    "Company Name": "Dynatronics Corporation",
+    "Ticker": "DYNT",
+    "Avg Volume": 1740788,
+    "Exchange": "NSDQ",
+    "Last Close": 1.02
+  },
+  {
+    "Company Name": "Endurance International Group Holdings, Inc.",
+    "Ticker": "EIGI",
+    "Avg Volume": 1224160,
+    "Exchange": "NSDQ",
+    "Last Close": 1.49
+  },
+  {
+    "Company Name": "Endo International plc",
+    "Ticker": "ENDP",
+    "Avg Volume": 8548133,
+    "Exchange": "NSDQ",
+    "Last Close": 3.01
+  },
+  {
+    "Company Name": "Global Eagle Entertainment Inc.",
+    "Ticker": "ENT",
+    "Avg Volume": 1742262,
+    "Exchange": "NSDQ",
+    "Last Close": ".14"
+  },
+  {
+    "Company Name": "Eldorado Resorts, Inc.",
+    "Ticker": "ERI",
+    "Avg Volume": 7028271,
+    "Exchange": "NSDQ",
+    "Last Close": 8.82
+  },
+  {
+    "Company Name": "Ericsson",
+    "Ticker": "ERIC",
+    "Avg Volume": 9999233,
+    "Exchange": "NSDQ",
+    "Last Close": 6.95
+  },
+  {
+    "Company Name": "Extreme Networks, Inc.",
+    "Ticker": "EXTR",
+    "Avg Volume": 2216181,
+    "Exchange": "NSDQ",
+    "Last Close": 2.27
+  },
+  {
+    "Company Name": "EYEPOINT PHARMACEUTICALS, INC.",
+    "Ticker": "EYPT",
+    "Avg Volume": 1395493,
+    "Exchange": "NSDQ",
+    "Last Close": ".9197"
+  },
+  {
+    "Company Name": "FuelCell Energy, Inc.",
+    "Ticker": "FCEL",
+    "Avg Volume": 16166219,
+    "Exchange": "NSDQ",
+    "Last Close": 1.22
+  },
+  {
+    "Company Name": "FireEye, Inc.",
+    "Ticker": "FEYE",
+    "Avg Volume": 4743560,
+    "Exchange": "NSDQ",
+    "Last Close": 9.81
+  },
+  {
+    "Company Name": "Flex Ltd.",
+    "Ticker": "FLEX",
+    "Avg Volume": 6441196,
+    "Exchange": "NSDQ",
+    "Last Close": 6.66
+  },
+  {
+    "Company Name": "Amicus Therapeutics, Inc.",
+    "Ticker": "FOLD",
+    "Avg Volume": 4467197,
+    "Exchange": "NSDQ",
+    "Last Close": 8.57
+  },
+  {
+    "Company Name": "Fossil Group, Inc.",
+    "Ticker": "FOSL",
+    "Avg Volume": 2463521,
+    "Exchange": "NSDQ",
+    "Last Close": 4.18
+  },
+  {
+    "Company Name": "Frontier Communications Corporation",
+    "Ticker": "FTR",
+    "Avg Volume": 1869205,
+    "Exchange": "NSDQ",
+    "Last Close": ".9"
+  },
+  {
+    "Company Name": "Geron Corporation",
+    "Ticker": "GERN",
+    "Avg Volume": 2045731,
+    "Exchange": "NSDQ",
+    "Last Close": 1.1
+  },
+  {
+    "Company Name": "Grupo Financiero Galicia S.A.",
+    "Ticker": "GGAL",
+    "Avg Volume": 1180393,
+    "Exchange": "NSDQ",
+    "Last Close": 6.81
+  },
+  {
+    "Company Name": "GUARDION HEALTH",
+    "Ticker": "GHSI",
+    "Avg Volume": 16650200,
+    "Exchange": "NSDQ",
+    "Last Close": ".475"
+  },
+  {
+    "Company Name": "G-III Apparel Group, LTD.",
+    "Ticker": "GIII",
+    "Avg Volume": 1126963,
+    "Exchange": "NSDQ",
+    "Last Close": 6.06
+  },
+  {
+    "Company Name": "Globus Maritime Limited",
+    "Ticker": "GLBS",
+    "Avg Volume": 2251334,
+    "Exchange": "NSDQ",
+    "Last Close": ".45"
+  },
+  {
+    "Company Name": "Golar LNG Limited",
+    "Ticker": "GLNG",
+    "Avg Volume": 2418045,
+    "Exchange": "NSDQ",
+    "Last Close": 6.97
+  },
+  {
+    "Company Name": "Glu Mobile Inc.",
+    "Ticker": "GLUU",
+    "Avg Volume": 4333967,
+    "Exchange": "NSDQ",
+    "Last Close": 6.09
+  },
+  {
+    "Company Name": "GenMark Diagnostics, Inc.",
+    "Ticker": "GNMK",
+    "Avg Volume": 3389780,
+    "Exchange": "NSDQ",
+    "Last Close": 5.36
+  },
+  {
+    "Company Name": "GENPREX INC",
+    "Ticker": "GNPX",
+    "Avg Volume": 5549488,
+    "Exchange": "NSDQ",
+    "Last Close": 2.51
+  },
+  {
+    "Company Name": "Gogo Inc.",
+    "Ticker": "GOGO",
+    "Avg Volume": 4066224,
+    "Exchange": "NSDQ",
+    "Last Close": 2.7
+  },
+  {
+    "Company Name": "Gulfport Energy Corporation",
+    "Ticker": "GPOR",
+    "Avg Volume": 9490087,
+    "Exchange": "NSDQ",
+    "Last Close": ".7061"
+  },
+  {
+    "Company Name": "GoPro, Inc.",
+    "Ticker": "GPRO",
+    "Avg Volume": 6107046,
+    "Exchange": "NSDQ",
+    "Last Close": 2.48
+  },
+  {
+    "Company Name": "Groupon, Inc.",
+    "Ticker": "GRPN",
+    "Avg Volume": 15467248,
+    "Exchange": "NSDQ",
+    "Last Close": ".5532"
+  },
+  {
+    "Company Name": "GreenSky, Inc.",
+    "Ticker": "GSKY",
+    "Avg Volume": 1253607,
+    "Exchange": "NSDQ",
+    "Last Close": 3.81
+  },
+  {
+    "Company Name": "The Goodyear Tire & Rubber Company",
+    "Ticker": "GT",
+    "Avg Volume": 8431087,
+    "Exchange": "NSDQ",
+    "Last Close": 5.69
+  },
+  {
+    "Company Name": "Hawaiian Holdings, Inc.",
+    "Ticker": "HA",
+    "Avg Volume": 1624771,
+    "Exchange": "NSDQ",
+    "Last Close": 8.65
+  },
+  {
+    "Company Name": "Huntington Bancshares Incorporated",
+    "Ticker": "HBAN",
+    "Avg Volume": 19068798,
+    "Exchange": "NSDQ",
+    "Last Close": 7.62
+  },
+  {
+    "Company Name": "Himax Technologies, Inc.",
+    "Ticker": "HIMX",
+    "Avg Volume": 1826428,
+    "Exchange": "NSDQ",
+    "Last Close": 2.52
+  },
+  {
+    "Company Name": "Hope Bancorp, Inc.",
+    "Ticker": "HOPE",
+    "Avg Volume": 1229541,
+    "Exchange": "NSDQ",
+    "Last Close": 7.91
+  },
+  {
+    "Company Name": "Heat Biologics, Inc.",
+    "Ticker": "HTBX",
+    "Avg Volume": 35217796,
+    "Exchange": "NSDQ",
+    "Last Close": ".605"
+  },
+  {
+    "Company Name": "HTG Molecular Diagnostics, Inc.",
+    "Ticker": "HTGM",
+    "Avg Volume": 1239483,
+    "Exchange": "NSDQ",
+    "Last Close": ".35"
+  },
+  {
+    "Company Name": "Ideanomics, Inc.",
+    "Ticker": "IDEX",
+    "Avg Volume": 1175297,
+    "Exchange": "NSDQ",
+    "Last Close": ".5605"
+  },
+  {
+    "Company Name": "iFresh Inc.",
+    "Ticker": "IFMK",
+    "Avg Volume": 2586993,
+    "Exchange": "NSDQ",
+    "Last Close": 1.4
+  },
+  {
+    "Company Name": "InflaRx N.V.",
+    "Ticker": "IFRX",
+    "Avg Volume": 1080530,
+    "Exchange": "NSDQ",
+    "Last Close": 3.43
+  },
+  {
+    "Company Name": "ImmunoGen, Inc.",
+    "Ticker": "IMGN",
+    "Avg Volume": 3023136,
+    "Exchange": "NSDQ",
+    "Last Close": 2.44
+  },
+  {
+    "Company Name": "Internap Corporation",
+    "Ticker": "INAP",
+    "Avg Volume": 1445721,
+    "Exchange": "NSDQ",
+    "Last Close": ".115"
+  },
+  {
+    "Company Name": "Infinera Corporation",
+    "Ticker": "INFN",
+    "Avg Volume": 5322289,
+    "Exchange": "NSDQ",
+    "Last Close": 4.8
+  },
+  {
+    "Company Name": "Inovio Pharmaceuticals, Inc.",
+    "Ticker": "INO",
+    "Avg Volume": 62473560,
+    "Exchange": "NSDQ",
+    "Last Close": 7.22
+  },
+  {
+    "Company Name": "Inseego Corp.",
+    "Ticker": "INSG",
+    "Avg Volume": 3364917,
+    "Exchange": "NSDQ",
+    "Last Close": 5.17
+  },
+  {
+    "Company Name": "Innoviva, Inc.",
+    "Ticker": "INVA",
+    "Avg Volume": 1048619,
+    "Exchange": "NSDQ",
+    "Last Close": 8.85
+  },
+  {
+    "Company Name": "Adesto Technologies Corporation",
+    "Ticker": "IOTS",
+    "Avg Volume": 1592871,
+    "Exchange": "NSDQ",
+    "Last Close": 9.1
+  },
+  {
+    "Company Name": "Ironwood Pharmaceuticals, Inc.",
+    "Ticker": "IRWD",
+    "Avg Volume": 2483962,
+    "Exchange": "NSDQ",
+    "Last Close": 9.38
+  },
+  {
+    "Company Name": "Investors Bancorp, Inc.",
+    "Ticker": "ISBC",
+    "Avg Volume": 4463891,
+    "Exchange": "NSDQ",
+    "Last Close": 7.99
+  },
+  {
+    "Company Name": "JetBlue Airways Corporation",
+    "Ticker": "JBLU",
+    "Avg Volume": 14213781,
+    "Exchange": "NSDQ",
+    "Last Close": 7.15
+  },
+  {
+    "Company Name": "Kala Pharmaceuticals, Inc.",
+    "Ticker": "KALA",
+    "Avg Volume": 2053513,
+    "Exchange": "NSDQ",
+    "Last Close": 7
+  },
+  {
+    "Company Name": "KemPharm, Inc.",
+    "Ticker": "KMPH",
+    "Avg Volume": 3304861,
+    "Exchange": "NSDQ",
+    "Last Close": ".2115"
+  },
+  {
+    "Company Name": "Laureate Education Inc.",
+    "Ticker": "LAUR",
+    "Avg Volume": 1587259,
+    "Exchange": "NSDQ",
+    "Last Close": 9
+  },
+  {
+    "Company Name": "Liberty Global PLC",
+    "Ticker": "LILAK",
+    "Avg Volume": 1253201,
+    "Exchange": "NSDQ",
+    "Last Close": 9.23
+  },
+  {
+    "Company Name": "Lianluo Smart Limited",
+    "Ticker": "LLIT",
+    "Avg Volume": 5250349,
+    "Exchange": "NSDQ",
+    "Last Close": ".383"
+  },
+  {
+    "Company Name": "Limelight Networks, Inc.",
+    "Ticker": "LLNW",
+    "Avg Volume": 1414850,
+    "Exchange": "NSDQ",
+    "Last Close": 4.37
+  },
+  {
+    "Company Name": "Lipocine Inc.",
+    "Ticker": "LPCN",
+    "Avg Volume": 2584744,
+    "Exchange": "NSDQ",
+    "Last Close": ".382"
+  },
+  {
+    "Company Name": "Liberty TripAdvisor Holdings, Inc.",
+    "Ticker": "LTRPA",
+    "Avg Volume": 2274736,
+    "Exchange": "NSDQ",
+    "Last Close": 1.49
+  },
+  {
+    "Company Name": "LexinFintech Holdings Ltd. Sponsored ADR",
+    "Ticker": "LX",
+    "Avg Volume": 1758634,
+    "Exchange": "NSDQ",
+    "Last Close": 8.76
+  },
+  {
+    "Company Name": "Lexicon Pharmaceuticals, Inc.",
+    "Ticker": "LXRX",
+    "Avg Volume": 1180046,
+    "Exchange": "NSDQ",
+    "Last Close": 2.01
+  },
+  {
+    "Company Name": "Remark Holdings, Inc.",
+    "Ticker": "MARK",
+    "Avg Volume": 4149378,
+    "Exchange": "NSDQ",
+    "Last Close": ".32"
+  },
+  {
+    "Company Name": "Mattel, Inc.",
+    "Ticker": "MAT",
+    "Avg Volume": 7832944,
+    "Exchange": "NSDQ",
+    "Last Close": 7.42
+  },
+  {
+    "Company Name": "Moleculin Biotech, Inc.",
+    "Ticker": "MBRX",
+    "Avg Volume": 2062341,
+    "Exchange": "NSDQ",
+    "Last Close": ".6"
+  },
+  {
+    "Company Name": "Allscripts Healthcare Solutions, Inc.",
+    "Ticker": "MDRX",
+    "Avg Volume": 3430921,
+    "Exchange": "NSDQ",
+    "Last Close": 5.51
+  },
+  {
+    "Company Name": "Meet Group, Inc.(The)",
+    "Ticker": "MEET",
+    "Avg Volume": 5249802,
+    "Exchange": "NSDQ",
+    "Last Close": 5.26
+  },
+  {
+    "Company Name": "Signal Genetics, Inc.",
+    "Ticker": "MGEN",
+    "Avg Volume": 1474513,
+    "Exchange": "NSDQ",
+    "Last Close": ".395"
+  },
+  {
+    "Company Name": "MoneyGram International Inc.",
+    "Ticker": "MGI",
+    "Avg Volume": 1982119,
+    "Exchange": "NSDQ",
+    "Last Close": 1.48
+  },
+  {
+    "Company Name": "The Michaels Companies, Inc.",
+    "Ticker": "MIK",
+    "Avg Volume": 5964936,
+    "Exchange": "NSDQ",
+    "Last Close": 1.56
+  },
+  {
+    "Company Name": "Stealth BioTherapeutics Corp. Sponsored ADR",
+    "Ticker": "MITO",
+    "Avg Volume": 1726957,
+    "Exchange": "NSDQ",
+    "Last Close": 1.1437
+  },
+  {
+    "Company Name": "MannKind Corporation",
+    "Ticker": "MNKD",
+    "Avg Volume": 3661113,
+    "Exchange": "NSDQ",
+    "Last Close": 1.01
+  },
+  {
+    "Company Name": "MobileIron, Inc.",
+    "Ticker": "MOBL",
+    "Avg Volume": 1250576,
+    "Exchange": "NSDQ",
+    "Last Close": 3.22
+  },
+  {
+    "Company Name": "Marinus Pharmaceuticals, Inc.",
+    "Ticker": "MRNS",
+    "Avg Volume": 1266344,
+    "Exchange": "NSDQ",
+    "Last Close": 2.1
+  },
+  {
+    "Company Name": "Microvision, Inc.",
+    "Ticker": "MVIS",
+    "Avg Volume": 2382438,
+    "Exchange": "NSDQ",
+    "Last Close": ".1847"
+  },
+  {
+    "Company Name": "Navient Corporation",
+    "Ticker": "NAVI",
+    "Avg Volume": 3811017,
+    "Exchange": "NSDQ",
+    "Last Close": 6
+  },
+  {
+    "Company Name": "New Age Beverage Corporation",
+    "Ticker": "NBEV",
+    "Avg Volume": 2747170,
+    "Exchange": "NSDQ",
+    "Last Close": 1.13
+  },
+  {
+    "Company Name": "Noble Energy Inc.",
+    "Ticker": "NBL",
+    "Avg Volume": 14866994,
+    "Exchange": "NSDQ",
+    "Last Close": 4.03
+  },
+  {
+    "Company Name": "Noble Midstream Partners LP",
+    "Ticker": "NBLX",
+    "Avg Volume": 1079364,
+    "Exchange": "NSDQ",
+    "Last Close": 4.24
+  },
+  {
+    "Company Name": "Nabriva Therapeutics AG",
+    "Ticker": "NBRV",
+    "Avg Volume": 1771148,
+    "Exchange": "NSDQ",
+    "Last Close": ".58"
+  },
+  {
+    "Company Name": "National CineMedia, Inc.",
+    "Ticker": "NCMI",
+    "Avg Volume": 1217386,
+    "Exchange": "NSDQ",
+    "Last Close": 2.7
+  },
+  {
+    "Company Name": "Newmark Group, Inc.",
+    "Ticker": "NMRK",
+    "Avg Volume": 1788242,
+    "Exchange": "NSDQ",
+    "Last Close": 3.87
+  },
+  {
+    "Company Name": "Novan Inc.",
+    "Ticker": "NOVN",
+    "Avg Volume": 17448180,
+    "Exchange": "NSDQ",
+    "Last Close": ".55"
+  },
+  {
+    "Company Name": "Intec Pharma Ltd.",
+    "Ticker": "NTEC",
+    "Avg Volume": 4443282,
+    "Exchange": "NSDQ",
+    "Last Close": ".1887"
+  },
+  {
+    "Company Name": "News Corporation",
+    "Ticker": "NWS",
+    "Avg Volume": 1577137,
+    "Exchange": "NSDQ",
+    "Last Close": 8.71
+  },
+  {
+    "Company Name": "News Corporation",
+    "Ticker": "NWSA",
+    "Avg Volume": 4662489,
+    "Exchange": "NSDQ",
+    "Last Close": 9.02
+  },
+  {
+    "Company Name": "New York Mortgage Trust, Inc.",
+    "Ticker": "NYMT",
+    "Avg Volume": 13114471,
+    "Exchange": "NSDQ",
+    "Last Close": 2.17
+  },
+  {
+    "Company Name": "Oasis Petroleum Inc.",
+    "Ticker": "OAS",
+    "Avg Volume": 23477980,
+    "Exchange": "NSDQ",
+    "Last Close": ".407"
+  },
+  {
+    "Company Name": "Histogenics Corporation",
+    "Ticker": "OCGN",
+    "Avg Volume": 2062867,
+    "Exchange": "NSDQ",
+    "Last Close": ".306"
+  },
+  {
+    "Company Name": "Oaktree Specialty Lending Corp.",
+    "Ticker": "OCSL",
+    "Avg Volume": 1548184,
+    "Exchange": "NSDQ",
+    "Last Close": 2.51
+  },
+  {
+    "Company Name": "Ocular Therapeutix, Inc.",
+    "Ticker": "OCUL",
+    "Avg Volume": 1780283,
+    "Exchange": "NSDQ",
+    "Last Close": 4.17
+  },
+  {
+    "Company Name": "Office Depot, Inc.",
+    "Ticker": "ODP",
+    "Avg Volume": 8442453,
+    "Exchange": "NSDQ",
+    "Last Close": 1.76
+  },
+  {
+    "Company Name": "Organigram Holdings Inc.",
+    "Ticker": "OGI",
+    "Avg Volume": 4081204,
+    "Exchange": "NSDQ",
+    "Last Close": 1.57
+  },
+  {
+    "Company Name": "Onconova Therapeutics, Inc.",
+    "Ticker": "ONTX",
+    "Avg Volume": 10208788,
+    "Exchange": "NSDQ",
+    "Last Close": ".3049"
+  },
+  {
+    "Company Name": "OpGen, Inc.",
+    "Ticker": "OPGN",
+    "Avg Volume": 6151010,
+    "Exchange": "NSDQ",
+    "Last Close": 2.98
+  },
+  {
+    "Company Name": "OPKO Health, Inc.",
+    "Ticker": "OPK",
+    "Avg Volume": 27829558,
+    "Exchange": "NSDQ",
+    "Last Close": 1.4
+  },
+  {
+    "Company Name": "Overstock.com, Inc.",
+    "Ticker": "OSTK",
+    "Avg Volume": 1725163,
+    "Exchange": "NSDQ",
+    "Last Close": 3.76
+  },
+  {
+    "Company Name": "Haymaker Acquisition Corp.",
+    "Ticker": "OSW",
+    "Avg Volume": 2350147,
+    "Exchange": "NSDQ",
+    "Last Close": 3.04
+  },
+  {
+    "Company Name": "Oxford Lane Capital Corp.",
+    "Ticker": "OXLC",
+    "Avg Volume": 2152862,
+    "Exchange": "NSDQ",
+    "Last Close": 3.35
+  },
+  {
+    "Company Name": "Pacific Biosciences of California, Inc.",
+    "Ticker": "PACB",
+    "Avg Volume": 3213764,
+    "Exchange": "NSDQ",
+    "Last Close": 2.68
+  },
+  {
+    "Company Name": "Gores Holdings III, Inc.",
+    "Ticker": "PAE",
+    "Avg Volume": 1358913,
+    "Exchange": "NSDQ",
+    "Last Close": 6.12
+  },
+  {
+    "Company Name": "PAVmed Inc.",
+    "Ticker": "PAVM",
+    "Avg Volume": 1632291,
+    "Exchange": "NSDQ",
+    "Last Close": 1.4
+  },
+  {
+    "Company Name": "Puma Biotechnology, Inc.",
+    "Ticker": "PBYI",
+    "Avg Volume": 1740218,
+    "Exchange": "NSDQ",
+    "Last Close": 7.82
+  },
+  {
+    "Company Name": "PDC Energy, Inc.",
+    "Ticker": "PDCE",
+    "Avg Volume": 3436686,
+    "Exchange": "NSDQ",
+    "Last Close": 6.42
+  },
+  {
+    "Company Name": "PDL BioPharma, Inc.",
+    "Ticker": "PDLI",
+    "Avg Volume": 1983166,
+    "Exchange": "NSDQ",
+    "Last Close": 2.53
+  },
+  {
+    "Company Name": "Pacific Ethanol, Inc.",
+    "Ticker": "PEIX",
+    "Avg Volume": 1061112,
+    "Exchange": "NSDQ",
+    "Last Close": ".37"
+  },
+  {
+    "Company Name": "Penn National Gaming, Inc.",
+    "Ticker": "PENN",
+    "Avg Volume": 7475604,
+    "Exchange": "NSDQ",
+    "Last Close": 7.89
+  },
+  {
+    "Company Name": "Intrexon Corporation",
+    "Ticker": "PGEN",
+    "Avg Volume": 1404393,
+    "Exchange": "NSDQ",
+    "Last Close": 2.95
+  },
+  {
+    "Company Name": "Progenics Pharmaceuticals Inc.",
+    "Ticker": "PGNX",
+    "Avg Volume": 1411177,
+    "Exchange": "NSDQ",
+    "Last Close": 2.32
+  },
+  {
+    "Company Name": "Dave & Buster's Entertainment, Inc.",
+    "Ticker": "PLAY",
+    "Avg Volume": 2582549,
+    "Exchange": "NSDQ",
+    "Last Close": 7.76
+  },
+  {
+    "Company Name": "Plug Power, Inc.",
+    "Ticker": "PLUG",
+    "Avg Volume": 21128868,
+    "Exchange": "NSDQ",
+    "Last Close": 3.32
+  },
+  {
+    "Company Name": "PRECISION THERAPEUTICS INC.",
+    "Ticker": "POAI",
+    "Avg Volume": 1048282,
+    "Exchange": "NSDQ",
+    "Last Close": 1.38
+  },
+  {
+    "Company Name": "Career Education Corporation",
+    "Ticker": "PRDO",
+    "Avg Volume": 1059360,
+    "Exchange": "NSDQ",
+    "Last Close": 8.76
+  },
+  {
+    "Company Name": "Paratek Pharmaceuticals, Inc.",
+    "Ticker": "PRTK",
+    "Avg Volume": 1301919,
+    "Exchange": "NSDQ",
+    "Last Close": 2.89
+  },
+  {
+    "Company Name": "Pluralsight, Inc.",
+    "Ticker": "PS",
+    "Avg Volume": 2125510,
+    "Exchange": "NSDQ",
+    "Last Close": 9.05
+  },
+  {
+    "Company Name": "Prospect Capital Corporation",
+    "Ticker": "PSEC",
+    "Avg Volume": 6547293,
+    "Exchange": "NSDQ",
+    "Last Close": 4.8
+  },
+  {
+    "Company Name": "Patterson-UTI Energy, Inc.",
+    "Ticker": "PTEN",
+    "Avg Volume": 7269911,
+    "Exchange": "NSDQ",
+    "Last Close": 2.21
+  },
+  {
+    "Company Name": "Proteostasis Therapeutics, Inc.",
+    "Ticker": "PTI",
+    "Avg Volume": 1504264,
+    "Exchange": "NSDQ",
+    "Last Close": 1.32
+  },
+  {
+    "Company Name": "Portola Pharmaceuticals, Inc.",
+    "Ticker": "PTLA",
+    "Avg Volume": 1961180,
+    "Exchange": "NSDQ",
+    "Last Close": 6.93
+  },
+  {
+    "Company Name": "Qurate Retail Group, Inc.",
+    "Ticker": "QRTEA",
+    "Avg Volume": 5531398,
+    "Exchange": "NSDQ",
+    "Last Close": 4.25
+  },
+  {
+    "Company Name": "Qutoutiao Inc. Sponsored ADR",
+    "Ticker": "QTT",
+    "Avg Volume": 2803579,
+    "Exchange": "NSDQ",
+    "Last Close": 3.29
+  },
+  {
+    "Company Name": "R1 RCM Inc.",
+    "Ticker": "RCM",
+    "Avg Volume": 1394120,
+    "Exchange": "NSDQ",
+    "Last Close": 8.85
+  },
+  {
+    "Company Name": "The RealReal, Inc.",
+    "Ticker": "REAL",
+    "Avg Volume": 2843101,
+    "Exchange": "NSDQ",
+    "Last Close": 7.56
+  },
+  {
+    "Company Name": "Rigel Pharmaceuticals, Inc.",
+    "Ticker": "RIGL",
+    "Avg Volume": 1442871,
+    "Exchange": "NSDQ",
+    "Last Close": 1.32
+  },
+  {
+    "Company Name": "Bioptix, Inc.",
+    "Ticker": "RIOT",
+    "Avg Volume": 1209350,
+    "Exchange": "NSDQ",
+    "Last Close": ".7048"
+  },
+  {
+    "Company Name": "Rambus, Inc.",
+    "Ticker": "RMBS",
+    "Avg Volume": 1005722,
+    "Exchange": "NSDQ",
+    "Last Close": 9.79
+  },
+  {
+    "Company Name": "Rockwell Medical, Inc.",
+    "Ticker": "RMTI",
+    "Avg Volume": 2384632,
+    "Exchange": "NSDQ",
+    "Last Close": 2.11
+  },
+  {
+    "Company Name": "Retail Opportunity Investments Corp.",
+    "Ticker": "ROIC",
+    "Avg Volume": 1910208,
+    "Exchange": "NSDQ",
+    "Last Close": 7.23
+  },
+  {
+    "Company Name": "Red Rock Resorts, Inc.",
+    "Ticker": "RRR",
+    "Avg Volume": 1989119,
+    "Exchange": "NSDQ",
+    "Last Close": 7.05
+  },
+  {
+    "Company Name": "Ritter Pharmaceuticals, Inc.",
+    "Ticker": "RTTR",
+    "Avg Volume": 16729979,
+    "Exchange": "NSDQ",
+    "Last Close": ".278"
+  },
+  {
+    "Company Name": "Sunrun Inc.",
+    "Ticker": "RUN",
+    "Avg Volume": 3819011,
+    "Exchange": "NSDQ",
+    "Last Close": 8.36
+  },
+  {
+    "Company Name": "Sabre Corporation",
+    "Ticker": "SABR",
+    "Avg Volume": 7845249,
+    "Exchange": "NSDQ",
+    "Last Close": 3.31
+  },
+  {
+    "Company Name": "Sabra Healthcare REIT, Inc.",
+    "Ticker": "SBRA",
+    "Avg Volume": 4272857,
+    "Exchange": "NSDQ",
+    "Last Close": 9.07
+  },
+  {
+    "Company Name": "Superconductor Technologies Inc.",
+    "Ticker": "SCON",
+    "Avg Volume": 5290659,
+    "Exchange": "NSDQ",
+    "Last Close": ".1539"
+  },
+  {
+    "Company Name": "SmileDirectClub, Inc.",
+    "Ticker": "SDC",
+    "Avg Volume": 7136427,
+    "Exchange": "NSDQ",
+    "Last Close": 4.1
+  },
+  {
+    "Company Name": "SESEN BIO, INC.",
+    "Ticker": "SESN",
+    "Avg Volume": 1363292,
+    "Exchange": "NSDQ",
+    "Last Close": ".491"
+  },
+  {
+    "Company Name": "Sangamo Therapeutics, Inc.",
+    "Ticker": "SGMO",
+    "Avg Volume": 4125982,
+    "Exchange": "NSDQ",
+    "Last Close": 6.01
+  },
+  {
+    "Company Name": "Scientific Games Corp",
+    "Ticker": "SGMS",
+    "Avg Volume": 2246300,
+    "Exchange": "NSDQ",
+    "Last Close": 6.63
+  },
+  {
+    "Company Name": "Sientra, Inc.",
+    "Ticker": "SIEN",
+    "Avg Volume": 1069689,
+    "Exchange": "NSDQ",
+    "Last Close": 1.07
+  },
+  {
+    "Company Name": "SINTX TECHNOLOGIES, INC.",
+    "Ticker": "SINT",
+    "Avg Volume": 1388970,
+    "Exchange": "NSDQ",
+    "Last Close": ".3511"
+  },
+  {
+    "Company Name": "Sirius XM Holdings Inc.",
+    "Ticker": "SIRI",
+    "Avg Volume": 39834920,
+    "Exchange": "NSDQ",
+    "Last Close": 4.44
+  },
+  {
+    "Company Name": "SLM Corporation",
+    "Ticker": "SLM",
+    "Avg Volume": 6109453,
+    "Exchange": "NSDQ",
+    "Last Close": 6.63
+  },
+  {
+    "Company Name": "Galena Biopharma, Inc.",
+    "Ticker": "SLS",
+    "Avg Volume": 1129301,
+    "Exchange": "NSDQ",
+    "Last Close": 1.72
+  },
+  {
+    "Company Name": "Sunesis Pharmaceuticals, Inc.",
+    "Ticker": "SNSS",
+    "Avg Volume": 2390590,
+    "Exchange": "NSDQ",
+    "Last Close": ".3906"
+  },
+  {
+    "Company Name": "Sonos, Inc.",
+    "Ticker": "SONO",
+    "Avg Volume": 2953678,
+    "Exchange": "NSDQ",
+    "Last Close": 7.92
+  },
+  {
+    "Company Name": "SuperCom, Ltd.",
+    "Ticker": "SPCB",
+    "Avg Volume": 1060988,
+    "Exchange": "NSDQ",
+    "Last Close": ".3801"
+  },
+  {
+    "Company Name": "Spectrum Pharmaceuticals, Inc.",
+    "Ticker": "SPPI",
+    "Avg Volume": 2095053,
+    "Exchange": "NSDQ",
+    "Last Close": 2.3
+  },
+  {
+    "Company Name": "Sportsman's Warehouse Holdings, Inc.",
+    "Ticker": "SPWH",
+    "Avg Volume": 1045976,
+    "Exchange": "NSDQ",
+    "Last Close": 5.1
+  },
+  {
+    "Company Name": "SunPower Corporation",
+    "Ticker": "SPWR",
+    "Avg Volume": 5191269,
+    "Exchange": "NSDQ",
+    "Last Close": 5.81
+  },
+  {
+    "Company Name": "Sorrento Therapeutics, Inc.",
+    "Ticker": "SRNE",
+    "Avg Volume": 7169722,
+    "Exchange": "NSDQ",
+    "Last Close": 2.05
+  },
+  {
+    "Company Name": "Extended Stay America, Inc.",
+    "Ticker": "STAY",
+    "Avg Volume": 4771600,
+    "Exchange": "NSDQ",
+    "Last Close": 7.08
+  },
+  {
+    "Company Name": "Hospitality Properties Trust",
+    "Ticker": "SVC",
+    "Avg Volume": 2491992,
+    "Exchange": "NSDQ",
+    "Last Close": 5.13
+  },
+  {
+    "Company Name": "China SXT Pharmaceuticals, Inc.",
+    "Ticker": "SXTC",
+    "Avg Volume": 2116918,
+    "Exchange": "NSDQ",
+    "Last Close": ".58"
+  },
+  {
+    "Company Name": "Carrols Restaurant Group, Inc.",
+    "Ticker": "TAST",
+    "Avg Volume": 1190447,
+    "Exchange": "NSDQ",
+    "Last Close": 1.24
+  },
+  {
+    "Company Name": "ToughBuilt Industries, Inc.",
+    "Ticker": "TBLT",
+    "Avg Volume": 21878096,
+    "Exchange": "NSDQ",
+    "Last Close": ".1384"
+  },
+  {
+    "Company Name": "Magellan Petroleum Corporation",
+    "Ticker": "TELL",
+    "Avg Volume": 6800313,
+    "Exchange": "NSDQ",
+    "Last Close": ".9997"
+  },
+  {
+    "Company Name": "Pareteum Corp.",
+    "Ticker": "TEUM",
+    "Avg Volume": 1655803,
+    "Exchange": "NSDQ",
+    "Last Close": ".3367"
+  },
+  {
+    "Company Name": "TG Therapeutics, Inc.",
+    "Ticker": "TGTX",
+    "Avg Volume": 2421611,
+    "Exchange": "NSDQ",
+    "Last Close": 7.64
+  },
+  {
+    "Company Name": "TiVo Corporation",
+    "Ticker": "TIVO",
+    "Avg Volume": 1768804,
+    "Exchange": "NSDQ",
+    "Last Close": 6.19
+  },
+  {
+    "Company Name": "Tilray, Inc.",
+    "Ticker": "TLRY",
+    "Avg Volume": 5322888,
+    "Exchange": "NSDQ",
+    "Last Close": 3.65
+  },
+  {
+    "Company Name": "Tonix Pharmaceuticals Holding Corp.",
+    "Ticker": "TNXP",
+    "Avg Volume": 20327796,
+    "Exchange": "NSDQ",
+    "Last Close": ".97"
+  },
+  {
+    "Company Name": "TOCAGEN INC",
+    "Ticker": "TOCA",
+    "Avg Volume": 5368928,
+    "Exchange": "NSDQ",
+    "Last Close": 1.42
+  },
+  {
+    "Company Name": "TOP Ships Inc.",
+    "Ticker": "TOPS",
+    "Avg Volume": 4955849,
+    "Exchange": "NSDQ",
+    "Last Close": ".1002"
+  },
+  {
+    "Company Name": "Trinity Biotech PLC",
+    "Ticker": "TRIB",
+    "Avg Volume": 1175179,
+    "Exchange": "NSDQ",
+    "Last Close": ".7727"
+  },
+  {
+    "Company Name": "Trillium Therapeutics Inc.",
+    "Ticker": "TRIL",
+    "Avg Volume": 4632414,
+    "Exchange": "NSDQ",
+    "Last Close": 3.34
+  },
+  {
+    "Company Name": "MAGNEGAS APPLIED TECHNOLOGY SOLUTIONS, INC.",
+    "Ticker": "TRNX",
+    "Avg Volume": 7498345,
+    "Exchange": "NSDQ",
+    "Last Close": ".165"
+  },
+  {
+    "Company Name": "TrueCar, Inc.",
+    "Ticker": "TRUE",
+    "Avg Volume": 1935003,
+    "Exchange": "NSDQ",
+    "Last Close": 2.29
+  },
+  {
+    "Company Name": "TTM Technologies, Inc.",
+    "Ticker": "TTMI",
+    "Avg Volume": 1539935,
+    "Exchange": "NSDQ",
+    "Last Close": 8.99
+  },
+  {
+    "Company Name": "Titan Pharmaceuticals, Inc.",
+    "Ticker": "TTNP",
+    "Avg Volume": 22121650,
+    "Exchange": "NSDQ",
+    "Last Close": ".214"
+  },
+  {
+    "Company Name": "T2 Biosystems, Inc.",
+    "Ticker": "TTOO",
+    "Avg Volume": 14580402,
+    "Exchange": "NSDQ",
+    "Last Close": ".3808"
+  },
+  {
+    "Company Name": "Healthways, Inc.",
+    "Ticker": "TVTY",
+    "Avg Volume": 3462647,
+    "Exchange": "NSDQ",
+    "Last Close": 3.84
+  },
+  {
+    "Company Name": "TherapeuticsMD, Inc.",
+    "Ticker": "TXMD",
+    "Avg Volume": 4648643,
+    "Exchange": "NSDQ",
+    "Last Close": 1.01
+  },
+  {
+    "Company Name": "Uniti Group Inc.",
+    "Ticker": "UNIT",
+    "Avg Volume": 3741408,
+    "Exchange": "NSDQ",
+    "Last Close": 5.21
+  },
+  {
+    "Company Name": "Upwork Inc.",
+    "Ticker": "UPWK",
+    "Avg Volume": 2653870,
+    "Exchange": "NSDQ",
+    "Last Close": 6.19
+  },
+  {
+    "Company Name": "Uxin Limited Sponsored ADR",
+    "Ticker": "UXIN",
+    "Avg Volume": 1879905,
+    "Exchange": "NSDQ",
+    "Last Close": 1.27
+  },
+  {
+    "Company Name": "VBI Vaccines, Inc.",
+    "Ticker": "VBIV",
+    "Avg Volume": 3372850,
+    "Exchange": "NSDQ",
+    "Last Close": ".7842"
+  },
+  {
+    "Company Name": "Vericel Corporation",
+    "Ticker": "VCEL",
+    "Avg Volume": 1016205,
+    "Exchange": "NSDQ",
+    "Last Close": 7.94
+  },
+  {
+    "Company Name": "VEON Ltd.",
+    "Ticker": "VEON",
+    "Avg Volume": 9935445,
+    "Exchange": "NSDQ",
+    "Last Close": 1.34
+  },
+  {
+    "Company Name": "Vonage Holdings Corp.",
+    "Ticker": "VG",
+    "Avg Volume": 4876264,
+    "Exchange": "NSDQ",
+    "Last Close": 5.19
+  },
+  {
+    "Company Name": "Viavi Solutions Inc.",
+    "Ticker": "VIAV",
+    "Avg Volume": 3392079,
+    "Exchange": "NSDQ",
+    "Last Close": 9.71
+  },
+  {
+    "Company Name": "XG Technology, Inc",
+    "Ticker": "VISL",
+    "Avg Volume": 12272396,
+    "Exchange": "NSDQ",
+    "Last Close": ".1375"
+  },
+  {
+    "Company Name": "Viveve Medical, Inc.",
+    "Ticker": "VIVE",
+    "Avg Volume": 1097617,
+    "Exchange": "NSDQ",
+    "Last Close": ".6085"
+  },
+  {
+    "Company Name": "Meridian Bioscience Inc.",
+    "Ticker": "VIVO",
+    "Avg Volume": 1020214,
+    "Exchange": "NSDQ",
+    "Last Close": 7.37
+  },
+  {
+    "Company Name": "Viking Therapeutics, Inc.",
+    "Ticker": "VKTX",
+    "Avg Volume": 1794914,
+    "Exchange": "NSDQ",
+    "Last Close": 4.32
+  },
+  {
+    "Company Name": "Valley National Bancorp",
+    "Ticker": "VLY",
+    "Avg Volume": 3502472,
+    "Exchange": "NSDQ",
+    "Last Close": 6.8
+  },
+  {
+    "Company Name": "Vanda Pharmaceuticals Inc.",
+    "Ticker": "VNDA",
+    "Avg Volume": 1040657,
+    "Exchange": "NSDQ",
+    "Last Close": 8.43
+  },
+  {
+    "Company Name": "Viper Energy Partners LP",
+    "Ticker": "VNOM",
+    "Avg Volume": 1745893,
+    "Exchange": "NSDQ",
+    "Last Close": 5.74
+  },
+  {
+    "Company Name": "ViewRay, Inc.",
+    "Ticker": "VRAY",
+    "Avg Volume": 2260370,
+    "Exchange": "NSDQ",
+    "Last Close": 1.87
+  },
+  {
+    "Company Name": "VERRA MOBILITY CORP",
+    "Ticker": "VRRM",
+    "Avg Volume": 2955576,
+    "Exchange": "NSDQ",
+    "Last Close": 6.35
+  },
+  {
+    "Company Name": "Verastem, Inc.",
+    "Ticker": "VSTM",
+    "Avg Volume": 3379942,
+    "Exchange": "NSDQ",
+    "Last Close": 1.87
+  },
+  {
+    "Company Name": "VAXART, INC.",
+    "Ticker": "VXRT",
+    "Avg Volume": 15643528,
+    "Exchange": "NSDQ",
+    "Last Close": 1.8
+  },
+  {
+    "Company Name": "WisdomTree Investments, Inc.",
+    "Ticker": "WETF",
+    "Avg Volume": 2350356,
+    "Exchange": "NSDQ",
+    "Last Close": 2.49
+  },
+  {
+    "Company Name": "Boingo Wireless, Inc.",
+    "Ticker": "WIFI",
+    "Avg Volume": 1419899,
+    "Exchange": "NSDQ",
+    "Last Close": 8.65
+  },
+  {
+    "Company Name": "Workhorse Group, Inc.",
+    "Ticker": "WKHS",
+    "Avg Volume": 1691651,
+    "Exchange": "NSDQ",
+    "Last Close": 1.59
+  },
+  {
+    "Company Name": "WillScot Corporation",
+    "Ticker": "WSC",
+    "Avg Volume": 1707468,
+    "Exchange": "NSDQ",
+    "Last Close": 7.87
+  },
+  {
+    "Company Name": "Waitr Holdings Inc.",
+    "Ticker": "WTRH",
+    "Avg Volume": 15789059,
+    "Exchange": "NSDQ",
+    "Last Close": 1.22
+  },
+  {
+    "Company Name": "AIT Therapeutics, Inc.",
+    "Ticker": "XAIR",
+    "Avg Volume": 1047871,
+    "Exchange": "NSDQ",
+    "Last Close": 6.7
+  },
+  {
+    "Company Name": "EXTRACTION O&G",
+    "Ticker": "XOG",
+    "Avg Volume": 2042737,
+    "Exchange": "NSDQ",
+    "Last Close": ".84"
+  },
+  {
+    "Company Name": "YRC Worldwide, Inc.",
+    "Ticker": "YRCW",
+    "Avg Volume": 1784935,
+    "Exchange": "NSDQ",
+    "Last Close": 1.86
+  },
+  {
+    "Company Name": "ZIOPHARM Oncology Inc",
+    "Ticker": "ZIOP",
+    "Avg Volume": 2722481,
+    "Exchange": "NSDQ",
+    "Last Close": 2.5
+  },
+  {
+    "Company Name": "Zion Oil & Gas Inc",
+    "Ticker": "ZN",
+    "Avg Volume": 3664915,
+    "Exchange": "NSDQ",
+    "Last Close": ".1735"
+  },
+  {
+    "Company Name": "Zynga Inc.",
+    "Ticker": "ZNGA",
+    "Avg Volume": 22234940,
+    "Exchange": "NSDQ",
+    "Last Close": 5.94
+  },
+  {
+    "Company Name": "Zosano Pharma Corporation",
+    "Ticker": "ZSAN",
+    "Avg Volume": 5131133,
+    "Exchange": "NSDQ",
+    "Last Close": ".4781"
+  }
+]
